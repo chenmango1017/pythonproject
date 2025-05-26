@@ -1,0 +1,4 @@
+ERROR - 2025-05-26 21:59:07,949 - readyaml.py:28 -[readyaml:get_testcase_yaml] - [./testcase/ProductManager/getProductList.yaml]文件未找到，请检查路径是否正确
+ERROR - 2025-05-26 21:59:07,950 - readyaml.py:28 -[readyaml:get_testcase_yaml] - [./testcase/ProductManager/productDetail.yaml]文件未找到，请检查路径是否正确
+ERROR - 2025-05-26 21:59:07,950 - readyaml.py:28 -[readyaml:get_testcase_yaml] - [./testcase/ProductManager/commitOrder.yaml]文件未找到，请检查路径是否正确
+ERROR - 2025-05-26 21:59:07,950 - readyaml.py:28 -[readyaml:get_testcase_yaml] - [./testcase/ProductManager/orderPay.yaml]文件未找到，请检查路径是否正确
